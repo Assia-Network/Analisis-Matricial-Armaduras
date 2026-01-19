@@ -2,7 +2,7 @@
 
 Este repositorio contiene una implementación en **Python** del **Método de la Rigidez** (Direct Stiffness Method) para el análisis de armaduras planas. El código está diseñado para ser modular y educativo, permitiendo visualizar paso a paso el cálculo matricial de estructuras reticulares.
 
-## 📋 Características
+## Características
 
 El programa es capaz de resolver armaduras estáticamente determinadas e indeterminadas, calculando:
 
